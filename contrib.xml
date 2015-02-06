@@ -67,8 +67,7 @@ checking its hash, and then unpacking to ${src}
 
     <!--3dm.jar-->
     <wget id="3dm" 
-        href1="http://download.berlios.de/tdm/3dm-0.1.5Beta1.jar" 
-        href2="http://hoslab.cs.helsinki.fi/downloads/fuego-core/contrib/3dm-0.1.5beta1.jar" 
+        href1="http://sourceforge.net/projects/tdm.berlios/files/3dm-0.1.5Beta1.jar"
         target="${lib}/3dm-0.1.5b1.jar" 
         sha="db50bfa18a16e8f8d8b8a7e34066d3d5427d234f" />
 
